@@ -98,5 +98,12 @@ And make every one can mint && comment for every new token(as new project).
 
 * make a vue3 component for the ipfs image uploader and viewer component
 * make the NTB project online and Go-To-Market design && features
+* add NFT marketplace function that provide users the trading NFT tokens in the platform
 
 <img src="./screenshot-2.png" />
+
+## 团队成员
+
+| 姓名 Name | 角色 Role     | 个人经历 Bio | 联系方式 Contact     |
+| ---- | ------------------- | --- | ----------------------- |
+|  Bruce | Full-Stack developer | 15+ 年全栈开发经验，创过业，外资上市公司带 20 人前端团队 | github: @NftTopBest |
