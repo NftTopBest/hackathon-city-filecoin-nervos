@@ -49,6 +49,16 @@ And make every one can mint && comment for every new token(as new project).
   * gallery images
   * voteUp && comment button and the slide-over
   * current token creator information also can click author avatar to chat with author via  chat.blockscan.com [code](https://github.com/NftTopBest/hackathon-city-filecoin-nervos/blob/main/web-app/src/pages/nfttop.best/%5BchainId%5D/%5BtokenId%5D.vue#L174)
+* Features with IPFS && NFT.Storage
+  * build an Drag & Drop component to upload image to ipfs via NFT.Stroage
+    * upload as single image
+    * upload as gallery, gallery images can re-order
+  * wrap some api to easier used in application
+  * image viewer component
+    * while developer just input the cid `ipfs://xxxx`, component can auto parse into ipfs link url
+    * show loading animation before image load finished
+  * use NFT.Strage status api to get file created time
+  * has a cache logic in client-side that while user revisit the same cid can just get from local data with almost zero second ;)
 
 ## 功能
 
@@ -73,5 +83,20 @@ And make every one can mint && comment for every new token(as new project).
   * 画廊图片
   * voteUp && 评论按钮和幻灯片
   * 当前代币创建者信息也可以点击作者头像通过chat.blockscan.com与作者聊天[code](https://github.com/NftTopBest/hackathon-city-filecoin-nervos/blob/main/web-app/src/pages/nfttop.best/%5BchainId%5D/%5BtokenId%5D.vue#L174)
+* 针对 IPFS && NFT.Storage 的优化
+  * 构建一个拖放组件以通过 NFT.Stroage 将图像上传到 ipfs
+    * 上传为单张图片
+    * 上传为图库，图库图片可以重新排序
+  * 包装一些 api 以便在应用程序中更容易使用
+  * 图片查看器组件
+    * 开发者只需输入 cid `ipfs://xxxx`，组件可以自动解析为 ipfs 链接 url
+    * 在图像加载完成之前显示加载动画
+  * 使用 NFT.Stage status api 获取文件创建时间
+  * 在客户端有一个缓存逻辑，当用户重新访问同一个 cid 时，可以几乎零秒从本地数据中获取；）
+
+## Further Plan
+
+* make a vue3 component for the ipfs image uploader and viewer component
+* make the NTB project online and Go-To-Market design && features
 
 <img src="./screenshot-2.png" />
