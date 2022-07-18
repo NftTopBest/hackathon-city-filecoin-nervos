@@ -8,8 +8,8 @@ And make every one can mint && comment for every new token(as new project).
 
 * [online demo](https://godwoken-testnet-v1.nfttop.best)
 * [solidity contact on GodWoken Testnet v1](https://v1.betanet.gwscan.com/account/0xf6f3da45746f90d930b8affe792cdc22db7fa80ff42796e7265a32daf207fe29?search=0xe6903e124e5bdae8784674eb625f1c212efc789e)
-* [demo video English](xxx)
-* [demo video Chinese](yyy)
+* [demo video English](https://www.loom.com/share/0b2ffb70f3744de0a9dacd0a9c6ab65e)
+* [demo video Chinese](https://www.loom.com/share/6dbfc4d3f18b487da0d6f0a5180419a1)
 
 ## Application Tech Stack
 
