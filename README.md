@@ -11,6 +11,19 @@ And make every one can mint && comment for every new token(as new project).
 * [demo video English](xxx)
 * [demo video Chinese](yyy)
 
+## Application Tech Stack
+
+* [x] IPFS
+* [x] Hardhat
+* [x] Vercel
+* [x] TailwindCSS
+* [x] Vue3
+* [x] Pinia (state store)
+* [x] PWA
+* [x] Vue-i18n
+* [x] Villus (gql && pinia binding lib)
+* [x] Vite2
+
 <img src="./screenshot-1.png" />
 
 ## Features
